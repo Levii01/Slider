@@ -1,1 +1,2 @@
 # Slider
+App in JS
